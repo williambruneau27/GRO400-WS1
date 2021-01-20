@@ -12,4 +12,4 @@ if __name__ == "__main__":
 
     words = full_text.split()
 
-
+    print("Total word count : ", len(words))
